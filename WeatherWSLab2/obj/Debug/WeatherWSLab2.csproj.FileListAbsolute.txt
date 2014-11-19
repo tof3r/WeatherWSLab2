@@ -1,0 +1,9 @@
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\bin\Debug\WeatherWSLab2.exe.config
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\bin\Debug\WeatherWSLab2.exe
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\bin\Debug\WeatherWSLab2.pdb
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\obj\Debug\WeatherWSLab2.csprojResolveAssemblyReference.cache
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\obj\Debug\WeatherWSLab2.Form1.resources
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\obj\Debug\WeatherWSLab2.Properties.Resources.resources
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\obj\Debug\WeatherWSLab2.csproj.GenerateResource.Cache
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\obj\Debug\WeatherWSLab2.exe
+E:\Development\Projects\VisualStudioProjects\WeatherWSLab2\WeatherWSLab2\obj\Debug\WeatherWSLab2.pdb
